@@ -1,2 +1,2 @@
-# daily
-Daily practice 
+# daily practice
+exercises and stuff :) 
