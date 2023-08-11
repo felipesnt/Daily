@@ -1,0 +1,98 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    color:rgb(63, 13, 110)
+  }
+  
+  div {
+    margin: 10px;
+  }
+  
+  h1 {
+    color: rgb(98, 11, 133);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  h3 {
+    margin-top: 50px;
+    color: rgb(16, 126, 98);
+  }
+  
+  input {
+    text-align: left;
+    margin: 15px;
+    display: inline;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 0;
+  }
+
+  img {
+    border-radius: 10px;
+  }
+  
+  label {
+    display: inline;
+  }
+  
+  ul {
+    margin-left: -30px;
+    list-style: none;
+  }
+  
+  li {
+    padding: 5px;
+  }
+  
+  a {
+    margin: 0 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(47, 156, 129);
+  }
+
+.menu {
+    background-color: rgb(12, 151, 116);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .menu:hover {
+    background-color: gray;
+    color: white;
+  }
+
+  .buynow {
+    background-color: rgb(120, 10, 148);
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 160px;
+    text-align: center;
+  }
+
+  .buynow:hover {
+    background-color: white;
+    color:  rgb(12, 151, 116);
+    border: 1px solid gray;
+  }
+
+  .call {
+    color:dimgray;
+  }
+
+  .ad {
+    background-color: white;
+    border: solid 1px rgb(136, 136, 136);
+    border-radius: 20px;
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    display: inline-block;
+  }
