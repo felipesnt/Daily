@@ -1,0 +1,35 @@
+body {
+    background: #A25B5B;
+    color: #CC9C75;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  img {
+    border-radius: 100%;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  div {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    background-color: #CC9C75;
+    color:#A25B5B;
+    padding: 8px;
+  }
+
+  .menu {
+    display: inline;
+  }
+
+  a:hover { 
+    text-decoration: none;
+    background-color: #633737;
+    color: #CC9C75;
+    padding: 8px;
+  }
