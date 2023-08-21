@@ -1,0 +1,38 @@
+body {
+    background-color: #F5F5F5;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  h3 {
+    font-weight: lighter;
+  }
+  
+  h2 {
+    color: #555050;
+    font-weight: bolder;
+    margin: 25px 5px 25px 5px;
+  }
+  
+  img {
+    width: 150px;
+    border: solid #ECE4E9 4px;
+    border-radius: 15px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .navi {
+    background-color: gray;
+    border: 1px solid blanchedalmond;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+  }
+  
+  .navi:hover {
+    background-color: blueviolet;
+  }
