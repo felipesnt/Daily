@@ -3,6 +3,7 @@ Hello! This space is reserved for collecting practice exercises in programming t
 
 <strong>LATEST EXERCISES</strong>
 <ul>
+<li><a href="https://github.com/felipesnt/daily/tree/main/calculator-interface">Simple calculator interface</a> - <time>sep 04, 2023</time></li>
 <li><a href="https://github.com/felipesnt/daily/tree/main/travel-blog">Travel blog (simple)</a> - <time>aug 21, 2023</time></li>
 <li><a href="https://github.com/felipesnt/daily/tree/main/destination-page">Destination Page (simple)</a> - <time>aug 18, 2023</time></li>
 <li><a href="https://github.com/felipesnt/daily/tree/main/business-marketing-page">Business Marketing Page (simple)</a> - <time>aug 14, 2023</time></li>
